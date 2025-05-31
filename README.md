@@ -1,4 +1,5 @@
-✨ Features
+**Features**
+
 -> Extracts **40 MFCC features** from audio files
 -> **CNN model** with 3 convolutional blocks
 -> **87% validation accuracy** on GTZAN dataset
